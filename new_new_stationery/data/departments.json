@@ -1,0 +1,7 @@
+[
+  {"id": "1", "name": "IT Department",        "head_name": "IT Manager",        "email": "it.manager@yourcompany.com"},
+  {"id": "2", "name": "HR Department",        "head_name": "HR Manager",        "email": "hr.manager@yourcompany.com"},
+  {"id": "3", "name": "Finance Department",   "head_name": "Finance Manager",   "email": "finance.manager@yourcompany.com"},
+  {"id": "4", "name": "Marketing Department", "head_name": "Marketing Manager", "email": "marketing.manager@yourcompany.com"},
+  {"id": "5", "name": "Operations",           "head_name": "Operations Manager","email": "operations@yourcompany.com"}
+]
