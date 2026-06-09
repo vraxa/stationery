@@ -1,0 +1,224 @@
+[
+    {
+        "id": "1",
+        "name": "Animal Care (ED31)",
+        "head_name": "Sally Reeve",
+        "email": "sreeve@grantham.ac.uk"
+    },
+    {
+        "id": "2",
+        "name": "Apprenticeships (YC20)",
+        "head_name": "Lara Steptoe",
+        "email": "lsteptoe@grantham.ac.uk"
+    },
+    {
+        "id": "3",
+        "name": "Automotive (ED21)",
+        "head_name": "Imogen Brooks",
+        "email": "ibrooks@grantham.ac.uk"
+    },
+    {
+        "id": "4",
+        "name": "Bar (CA81)",
+        "head_name": "Karen Duller",
+        "email": "kduller@grantham.ac.uk"
+    },
+    {
+        "id": "5",
+        "name": "Business & Languages (ED06)",
+        "head_name": "Imogen Brooks",
+        "email": "ibrooks@grantham.ac.uk"
+    },
+    {
+        "id": "6",
+        "name": "Construction (ED15)",
+        "head_name": "Hazel Gunby",
+        "email": "hgunby@grantham.ac.uk"
+    },
+    {
+        "id": "7",
+        "name": "Daybreak (ED24)",
+        "head_name": "Sally Reeve",
+        "email": "sreeve@grantham.ac.uk"
+    },
+    {
+        "id": "8",
+        "name": "Engineering (ED20)",
+        "head_name": "Imogen Brooks",
+        "email": "ibrooks@grantham.ac.uk"
+    },
+    {
+        "id": "9",
+        "name": "English, Maths and ESOL (ED41)",
+        "head_name": "Judi Fisher",
+        "email": "jfisher@grantham.ac.uk"
+    },
+    {
+        "id": "10",
+        "name": "Estates (BA20)",
+        "head_name": "Susan Mumford",
+        "email": "smumford@grantham.ac.uk"
+    },
+    {
+        "id": "11",
+        "name": "Executive & Secretarial (XX10)",
+        "head_name": "Paul Deane",
+        "email": "pdeane@grantham.ac.uk"
+    },
+    {
+        "id": "12",
+        "name": "Finance (CA10)",
+        "head_name": "Anita Harrison",
+        "email": "aharrison@grantham.ac.uk"
+    },
+    {
+        "id": "13",
+        "name": "Hair & Beauty (ED20)",
+        "head_name": "Hazel Gunby",
+        "email": "hgunby@grantham.ac.uk"
+    },
+    {
+        "id": "14",
+        "name": "Health & Safety (DA31)",
+        "head_name": "Susan Mumford",
+        "email": "smumford@grantham.ac.uk"
+    },
+    {
+        "id": "15",
+        "name": "Health & Social Care, Early Years & R2E (ED35)",
+        "head_name": "Sally Reeve",
+        "email": "sreeve@grantham.ac.uk"
+    },
+    {
+        "id": "16",
+        "name": "Higher Education (ED80)",
+        "head_name": "Tracy Scarborough",
+        "email": "tscarborough@grantham.ac.uk"
+    },
+    {
+        "id": "17",
+        "name": "Hospitality (ED40)",
+        "head_name": "Hazel Gunby",
+        "email": "hgunby@grantham.ac.uk"
+    },
+    {
+        "id": "18",
+        "name": "Human Resources (CA70)",
+        "head_name": "Kirsty Brant",
+        "email": "kbrant@grantham.ac.uk"
+    },
+    {
+        "id": "19",
+        "name": "Humanities (ED47a)",
+        "head_name": "Judi Fisher",
+        "email": "jfisher@grantham.ac.uk"
+    },
+    {
+        "id": "20",
+        "name": "IT Services (CA20)",
+        "head_name": "James Meenaghan",
+        "email": "jmeenaghan@grantham.ac.uk"
+    },
+    {
+        "id": "21",
+        "name": "Learning Development (ED25)",
+        "head_name": "Sally Reeve",
+        "email": "sreeve@grantham.ac.uk"
+    },
+    {
+        "id": "22",
+        "name": "Learning Resources (DA10)",
+        "head_name": "James Meenaghan",
+        "email": "jmeenaghan@grantham.ac.uk"
+    },
+    {
+        "id": "23",
+        "name": "Marketing (BA10)",
+        "head_name": "Chelsea Morris",
+        "email": "cmorris@grantham.ac.uk"
+    },
+    {
+        "id": "24",
+        "name": "Powersport (DA62)",
+        "head_name": "Imogen Brooks",
+        "email": "ibrooks@grantham.ac.uk"
+    },
+    {
+        "id": "25",
+        "name": "Projects (YP10)",
+        "head_name": "Lara Steptoe",
+        "email": "lsteptoe@grantham.ac.uk"
+    },
+    {
+        "id": "26",
+        "name": "Quality (DA30)",
+        "head_name": "Tracy Scarborough",
+        "email": "tscarborough@grantham.ac.uk"
+    },
+    {
+        "id": "27",
+        "name": "Refectory (CA80)",
+        "head_name": "Dale Maplethorpe",
+        "email": "dmaplethorpe@grantham.ac.uk"
+    },
+    {
+        "id": "28",
+        "name": "Registry, Exams and MIS (CA40)",
+        "head_name": "James Meenaghan",
+        "email": "jmeenaghan@grantham.ac.uk"
+    },
+    {
+        "id": "29",
+        "name": "Science (ED47b)",
+        "head_name": "Imogen Brooks",
+        "email": "ibrooks@grantham.ac.uk"
+    },
+    {
+        "id": "30",
+        "name": "Sport (ED60)",
+        "head_name": "Imogen Brooks",
+        "email": "ibrooks@grantham.ac.uk"
+    },
+    {
+        "id": "31",
+        "name": "Sport Academies (ED62)",
+        "head_name": "Imogen Brooks",
+        "email": "ibrooks@grantham.ac.uk"
+    },
+    {
+        "id": "32",
+        "name": "Student Accommodation (LA20)",
+        "head_name": "Sarah High",
+        "email": "shigh@grantham.ac.uk"
+    },
+    {
+        "id": "33",
+        "name": "Student Services (LA10)",
+        "head_name": "Sarah High",
+        "email": "shigh@grantham.ac.uk"
+    },
+    {
+        "id": "34",
+        "name": "Travel & Tourism (ED65)",
+        "head_name": "Hazel Gunby",
+        "email": "hgunby@grantham.ac.uk"
+    },
+    {
+        "id": "35",
+        "name": "Uniformed Protective Services (ED55)",
+        "head_name": "Sally Reeve",
+        "email": "sreeve@grantham.ac.uk"
+    },
+    {
+        "id": "36",
+        "name": "Visual Arts & Media (ED70)",
+        "head_name": "Hazel Gunby",
+        "email": "hgunby@grantham.ac.uk"
+    },
+    {
+        "id": "37",
+        "name": "STEVE TEST ONE DON'T USE",
+        "head_name": "Steve Taylor",
+        "email": "staylor@grantham.ac.uk"
+    }
+]

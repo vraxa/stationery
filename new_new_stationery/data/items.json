@@ -1,0 +1,506 @@
+[
+    {
+        "id": "1",
+        "sku": "0215264",
+        "name": "Rubber bands assorted 100g",
+        "description": "",
+        "price": 0.38,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "2",
+        "sku": "0401798",
+        "name": "Storage box extra strong",
+        "description": "",
+        "price": 2.14,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "3",
+        "sku": "0470043",
+        "name": "Drawing pins (box of 100)",
+        "description": "",
+        "price": 1.3,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "4",
+        "sku": "0483006",
+        "name": "Pencil sharpener metal double hole",
+        "description": "",
+        "price": 0.1,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "5",
+        "sku": "0591251",
+        "name": "Ballpoint pen blue",
+        "description": "",
+        "price": 0.06,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "6",
+        "sku": "0995018",
+        "name": "Calculator 8 digit",
+        "description": "",
+        "price": 0.6,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "7",
+        "sku": "101-3401",
+        "name": "Pencil HB",
+        "description": "",
+        "price": 0.08,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "8",
+        "sku": "101-3461",
+        "name": "Eraser small",
+        "description": "",
+        "price": 0.08,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "9",
+        "sku": "101-8824",
+        "name": "Ruled paper loose leaf (500 sheets)",
+        "description": "",
+        "price": 7.56,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "10",
+        "sku": "108-5311",
+        "name": "Sellotape large",
+        "description": "",
+        "price": 0.15,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "11",
+        "sku": "1230518",
+        "name": "Staples (box of 5000)",
+        "description": "",
+        "price": 0.48,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "12",
+        "sku": "140 0404",
+        "name": "Document wallet foolscap red",
+        "description": "",
+        "price": 0.15,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "13",
+        "sku": "140 0408",
+        "name": "Document wallet foolscap green",
+        "description": "",
+        "price": 0.15,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "14",
+        "sku": "140 0409",
+        "name": "Document wallet foolscap blue",
+        "description": "",
+        "price": 0.15,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "15",
+        "sku": "1476426",
+        "name": "Ballpoint pen black",
+        "description": "",
+        "price": 0.06,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "16",
+        "sku": "1586856",
+        "name": "Envelopes DL white plain (box of 1000)",
+        "description": "",
+        "price": 13.6,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "17",
+        "sku": "1945341",
+        "name": "Highlighters 4 pack (yellow\/green\/pink\/blue)",
+        "description": "",
+        "price": 1.15,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "18",
+        "sku": "234-4526",
+        "name": "Blu Tak",
+        "description": "",
+        "price": 1.68,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "19",
+        "sku": "261-2833",
+        "name": "Packaging tape buff",
+        "description": "",
+        "price": 0.29,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "20",
+        "sku": "2684221",
+        "name": "Post-It notes yellow 76 x 76mm",
+        "description": "",
+        "price": 0.12,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "21",
+        "sku": "2891540",
+        "name": "Post-It notes yellow 76 x 127mm",
+        "description": "",
+        "price": 0.29,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "22",
+        "sku": "2969986",
+        "name": "Ballpoint pen red",
+        "description": "",
+        "price": 0.06,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "23",
+        "sku": "3277107",
+        "name": "Ruler clear plastic 300mm",
+        "description": "",
+        "price": 0.31,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "24",
+        "sku": "3440816",
+        "name": "Envelopes C4 manilla gussett (box of 100)",
+        "description": "",
+        "price": 9.6,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "25",
+        "sku": "4005283",
+        "name": "Whiteboard eraser",
+        "description": "",
+        "price": 0.16,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "26",
+        "sku": "4362168",
+        "name": "Envelopes C4 hard backed manilla (box of 125)",
+        "description": "",
+        "price": 12.36,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "27",
+        "sku": "489-8741",
+        "name": "Tipp-Ex correction fluid",
+        "description": "",
+        "price": 1.62,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "28",
+        "sku": "5022348",
+        "name": "Drywipe marker pens 4 pack (black\/blue\/green\/red)",
+        "description": "",
+        "price": 1.56,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "29",
+        "sku": "6288519",
+        "name": "Plastic pocket - A4 open top",
+        "description": "",
+        "price": 0.01,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "30",
+        "sku": "645-2623",
+        "name": "Plastic pocket - A4 open side & top",
+        "description": "",
+        "price": 0.65,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "31",
+        "sku": "649-7829",
+        "name": "Pritt stick large",
+        "description": "",
+        "price": 1.25,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "32",
+        "sku": "6493764",
+        "name": "Envelopes DL white window (box of 500)",
+        "description": "",
+        "price": 16.22,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "33",
+        "sku": "7061935",
+        "name": "Memo pad A4 ruled board backed (160 pages)",
+        "description": "",
+        "price": 0.6,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "34",
+        "sku": "7387953",
+        "name": "Staple remover",
+        "description": "",
+        "price": 0.17,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "35",
+        "sku": "7626827",
+        "name": "Shorthand notebook (300 pages)",
+        "description": "",
+        "price": 0.47,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "36",
+        "sku": "7914362",
+        "name": "Envelopes C3 polythene",
+        "description": "",
+        "price": 0.31,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "37",
+        "sku": "7966694",
+        "name": "Scissors general use 170mm",
+        "description": "",
+        "price": 0.6,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "38",
+        "sku": "8300002",
+        "name": "Drywipe marker pen black",
+        "description": "",
+        "price": 0.15,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "39",
+        "sku": "8300004",
+        "name": "Drywipe marker pen blue",
+        "description": "",
+        "price": 0.1,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "40",
+        "sku": "8300012",
+        "name": "Marker pen permanent black",
+        "description": "",
+        "price": 0.11,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "41",
+        "sku": "835 0108",
+        "name": "Ballpoint pen green",
+        "description": "",
+        "price": 0.06,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "42",
+        "sku": "8553889",
+        "name": "Post-It notes yellow 38 x 51mm",
+        "description": "",
+        "price": 0.05,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "43",
+        "sku": "9000020",
+        "name": "Envelopes C5 white window (box of 500)",
+        "description": "",
+        "price": 10.57,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "44",
+        "sku": "9128020",
+        "name": "Stapler (20 Sheet)",
+        "description": "",
+        "price": 0.76,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "45",
+        "sku": "9280001",
+        "name": "Paperclip large 30mm (box of 100)",
+        "description": "",
+        "price": 0.23,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "46",
+        "sku": "9280002",
+        "name": "Paperclip small 25mm (box of 100)",
+        "description": "",
+        "price": 0.19,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "47",
+        "sku": "9280007",
+        "name": "Paperclip giant 51mm (box of 100)",
+        "description": "",
+        "price": 0.28,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "48",
+        "sku": "931 0060",
+        "name": "Sellotape small",
+        "description": "",
+        "price": 0.26,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "49",
+        "sku": "9330007",
+        "name": "Hole punch (20 sheet)",
+        "description": "",
+        "price": 0.9,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "50",
+        "sku": "9383004",
+        "name": "Subject dividers 5-part (1 pack)",
+        "description": "",
+        "price": 0.17,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "51",
+        "sku": "9383005",
+        "name": "Subject dividers 10-part (1 pack)",
+        "description": "",
+        "price": 0.3,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "52",
+        "sku": "AA76493",
+        "name": "Labels A4 (14 per sheet)",
+        "description": "",
+        "price": 0.05,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "53",
+        "sku": "ST05479",
+        "name": "Envelopes C4 white plain (box of 250)",
+        "description": "",
+        "price": 11.86,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "54",
+        "sku": "ST05483",
+        "name": "Envelopes C5 white plain (box of 500)",
+        "description": "",
+        "price": 10.07,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "55",
+        "sku": "ST05485",
+        "name": "Envelopes C4 white window (box of 250)",
+        "description": "",
+        "price": 12.85,
+        "unit": "",
+        "category": ""
+    },
+    {
+        "id": "56",
+        "sku": "ST75766",
+        "name": "Whiteboard surface foam cleaner",
+        "description": "",
+        "price": 1.2,
+        "unit": "",
+        "category": ""
+    }
+]
